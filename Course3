@@ -1,13 +1,11 @@
-Hello you can tell us your name and the module name from course1 you want to contribute to. 
-You can choose onemodule from the list below:-
-1)Stacks & Queues
-2)Hashtables
-3)Binary Trees & BSTs
-4)Priority Queues & Heaps
-5)Graphs & Graph Algorithms
+What are the key concepts you learnt from these courses
+You can choose one module from the list below:-
+1)Algorithm Analysis
+2)Divide and Conquer Algorithms
+3)Dynamic Programming
 
-Saubhik Mukherjee
-Graphs & Graph Algorithms
-I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
-I learnt how to do BFS and DFS traversals on a graph.
-I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Pawan Dubey
+Dynamic Programming
+Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
