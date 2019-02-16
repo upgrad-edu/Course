@@ -9,3 +9,12 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+
+Sharon Sam
+Stacks and Queues
+Graphs and Graph Algorithms
+Stack is a datastructure which follows LIFO method
+Queue is a datastructure which follows FIFO method
+In Graphs we learnt about BFS and DFS. We saw examples of Inorder, pre order and post order types
+Graph Algorithm gave an idea about Adjacency Matrix, Adjacency List and Edge List.
+Further we saw Djikstra's algorithm and its usage.
