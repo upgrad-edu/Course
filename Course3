@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sarvjeet Rajvansh
+Algorithm Analysis
+To find out how efficient an algorith is in speed of execution and memory require to execute, we do algorithm analysis.
+mainly algorithm is analyze based on time and space complexity.
+we always consider the worst case to take final decision about the efficiency of the algorithm.
+
