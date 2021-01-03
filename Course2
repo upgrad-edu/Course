@@ -7,3 +7,8 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Nancy Makasare
+Divide and Conquer Algorithms
+Divide and Conquer Algorithms focus on breaking down the complex problem into several smaller problems so as to ease the coplexity and achieve the purpose.
+This helps make the code less lengthy thus making it easier to debug. It also makes the code less prone to errors thus delivering a more stable code.
