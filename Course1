@@ -9,4 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Biplob Mondal
+Divide and Conquer Algorithms
+Big Problem are break down into small sub problems that are easy to understand directly. The solutions to the sub-problems are then combined to give a solution to the original problem.
