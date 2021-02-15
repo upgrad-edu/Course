@@ -4,6 +4,8 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Prajnasmita Swain
+Fundamentals of software programming
+1. Forking is a process where  we can create a fork of another user's branch, update the changes, create a pull request for them to review and accept/reject the changes before mergeing. Forking happens on remote repository. To update in local we would need to create a clone of the forked branch.
+2. Cloning is creating a local repository for a remote repository. Local repository changes are made in local and are not reflected in remote branches untill they are pushed to remote branch.
+3. We can create different branches and work concurrently. and merge these changes later on to the master branch. 
