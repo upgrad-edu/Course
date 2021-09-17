@@ -6,4 +6,14 @@ You can choose one module from the list below:-
 
 Pawan Dubey
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems
+
+
+Naveen Kumar
+Inheritance
+  -> Inheritanec can let you extend the behaviour of once class by inherting the properties of other class.
+  -> Class which contains the commooooooon properties is called superclass
+  -> Class whihc inherits the properties is called subclass
+Polymorphism
+  -> Static Polymorphism. It happens at compile time. Method overloading is an example of that
+  -> Synamic Polymorphism. It happens at runtime. Method overriding fits here. 	
