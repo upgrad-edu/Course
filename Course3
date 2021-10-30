@@ -5,7 +5,6 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Sugandha Saurabh
+Divide and Conquer Algorithms
+The benefit of using Divide and Conquer Algorithms is that it divides the complex problems into simpler smaller problems and work on that. This helps in easy and simpler targetted approach towards the simpler sub-problems which can be solved (conqured) easily. And then adding these smaller solutions into a bigger solution which actually carves the solution of the main problem.
