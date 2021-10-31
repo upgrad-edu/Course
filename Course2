@@ -1,9 +1,6 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+1. Name: Om Prakash
+2. Module name from course 2: Exploratory Data Analysis
+3. Exploratory Data Analysis is one of the most important part of any data science project.
+It consists of sourcing, cleaning and analysing the data with Univariate, Bivariate analysis.
+With segmented analysis we leverage and categorize the data results in multiple set.
+Derived metrics give multiple type of insight like nominal, ordinal, interval and ratio analysis.
