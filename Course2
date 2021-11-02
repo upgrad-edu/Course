@@ -5,5 +5,5 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 Suhas S
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Algorithm Analysis
+Algorithm analysis is an important part of computational complexity theory, which provides theoretical estimation for the required resources of an algorithm to solve a specific computational problem
