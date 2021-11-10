@@ -7,3 +7,9 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Moushomi Bose
+Dynamic Programming
+Dynamic Programming (commonly referred to as DP) is an algorithmic technique for solving a problem by recursively breaking 
+it down into simpler subproblems and using the fact that the optimal solution to the overall problem depends upon the optimal
+solution to it's individual subproblems.
