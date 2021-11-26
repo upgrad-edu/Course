@@ -7,5 +7,10 @@ You can choose one module from the list below:-
 
 Pawan Dubey
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Understanding the problem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Raghavendra Srinivasan
+Divide and Conquer Algorithms
+Understanding the problems and how problem to be divided to sub problems.
+Then how sub problems are solved and finally, merge all the sub problem's solution to get combine output.
+Divide - to divide the data into sub-problem, Conquer - solving the sub-problems and lastly combine the output to be time efficient and space efficient.
