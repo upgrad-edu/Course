@@ -7,3 +7,10 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Jamshed Ahsan
+Topic: Divide and Conquer Algorithms
+My Learnings:
+1. How to divide any big problem (say 'base' problem) into smaller problem in order to reduce complexity/challenge 
+2. Make solution for each smaller problem until all the sub-problems are solved
+3. How to integrate/evolve final solution to 'base' problem 
