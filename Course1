@@ -10,3 +10,7 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Abhishek Kumar Goyal
+Divide and Conquer Algorithms
+This design paradigm is used to recursively break down a problem into two or more sub-problems of the same type.
+It is done until the problem becomes simple enough to solve without breaking it further. 
