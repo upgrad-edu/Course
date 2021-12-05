@@ -7,6 +7,8 @@ You can choose one module from the list below:-
 Meenakshi Chandramohan
 1) Algorithm Analysis :
 Algorithm is a set of procedure for a problem to get an accurate and proper formatted result on time.
+we are also having some set of built in functions and some set of standard procedures or algorithms. 
+Sometimes we have to follow our own algorithms when the procedure preformance is better. 
 
 2) Divide and Conquer Algorithms : 
 It is an another name of merge sort. We are dividing the data structure to one element structure and 
