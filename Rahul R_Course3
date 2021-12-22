@@ -1,0 +1,11 @@
+What are the key concepts you learnt from these courses
+You can choose one module from the list below:-
+1)Algorithm Analysis
+2)Divide and Conquer Algorithms
+3)Dynamic Programming
+
+
+Rahul R
+Divide and Conquer Algorithms
+The divide-and-conquer paradigm is often used to find an optimal solution of a problem. Its basic idea is to decompose a given problem into two or more similar, but simpler, subproblems, to solve them in turn, and to compose their solutions to solve the given problem. Problems of sufficient simplicity are solved directly. For example, to sort a given list of n natural numbers, split it into two lists of about n/2 numbers each, sort each of them in turn, and interleave both results appropriately to obtain the sorted version of the given list (see the picture). This approach is known as the merge sort algorithm.
+
