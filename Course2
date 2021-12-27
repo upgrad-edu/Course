@@ -7,3 +7,9 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Name: Karan Chauhan
+Module: Introduction to Git and GitHub
+In this module I have learnt about the difference between git or github. I learnt how to commit, clone, push our local branch at remote.
+also I found 1 thing very intresting that is how to go back to previous commit with the help of "git revert HEAD" command.
+
