@@ -7,3 +7,7 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Neha Bansal
+Divide and Conquer Algorithms
+this problem divide the problem into smaller sub problems, solve sub problems by calling recursively until solved, combine the sub problems to get the final solution for the whole problem
