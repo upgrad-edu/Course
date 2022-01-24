@@ -5,7 +5,11 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
+Shubham Srivastava
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+It is a way or method of solving complex problem in efficient way in term of time and space. 
+We may say this is an optimized version of Divide and Conquer also, 
+in Divide and Conquer we devide problem in to sub-problems and solve the sub-problem to get result 
+but in DP we think same devide problem into sub-problems but here we remember the solution of sub-problem
+so that we can use if same sub-problem need to be solved throught the process.
 
