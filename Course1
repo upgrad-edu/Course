@@ -10,3 +10,8 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Ajit Kumar
+Dynamic Programming
+DP is for breaking complex overlapping and optimal substructure problem into smaller sub problem.
+DP used memoziation for solving overlappin sub proble.s
+Top-up or bottom down memoziation are used to solve problems.
