@@ -9,3 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Trupti Dhumal
+Divide and Conqure Algorithms
+It's a three step process "Divide(break) Conqure(solve) Merge(combine)" which helps to reduce the time and space complexity of a problem 
+Example :- binary search - In this rather than iterating over complete list we keep devide the sorted list of items and the apply search on that subpart of list in same way. it reduces number of iterations and hence the time complexity.
