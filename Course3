@@ -1,9 +1,10 @@
+Vipin Jaguri.
 
+Following are the modules which we learnt in details in course1
 1)Numpy
 2)Pandas
 3)Data Visualization
 
-
-Vipin Jaguri
-
-Above modules are helpful in performing basic python operations on data.
+Above modules are helpful in performing basic python operations on data. 
+Pandas, in particular, is a very powerful library.
+It is built on top of matplotlib and NumPy and hence provides a rich set of functionalities of Visualization and mathematical operations.
