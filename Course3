@@ -1,11 +1,10 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Vipin Jaguri.
 
+Following are the modules which we learnt in details in course1
+1)Numpy
+2)Pandas
+3)Data Visualization
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Above modules are helpful in performing basic python operations on data. 
+Pandas, in particular, is a very powerful library.
+It is built on top of matplotlib and NumPy and hence provides a rich set of functionalities of Visualization and mathematical operations.
