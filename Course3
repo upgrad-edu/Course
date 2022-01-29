@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sarva M Sumanth
+Divide and Conquer Algorithms
+Divide and Conquer algorithms are great to use when we have large chunk of data. we can apply the method to small subset and parallely apply the same process to whole data to arrive at solution. It is recursive way and hence more efficient.
