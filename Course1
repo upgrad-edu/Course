@@ -10,3 +10,13 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Anubhav Mishra
+Algorithm Analysis
+1) Algorithm analysis provides theoretical estimation for the required resources of an alogorithm.
+2) It is the process of analyzing the problem-solving capability.
+3) It analyses the main concern of the algorithm that is space and time complexity.
+4) There are many different techniques of doing algorithm analysis:
+    Divide and Conquer
+    Dynamic Programming
+    Greedy method
+
