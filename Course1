@@ -14,4 +14,4 @@ Exploratory Data Analysis
 Cleaning of data is an essential step before analysis.
 Imputation needs to be performed carefully either with mean, median, mode or subset the data if impuatation is not the business demand.
 OUtlier detection and removal is required to get a better understaning of the data.
-Boxplot can better explain what normal distribution graphs cannot.
+Boxplot can better explain what normal distribution graphs cannot explain.
