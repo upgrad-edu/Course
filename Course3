@@ -9,3 +9,23 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Suman Samarthi
+Exploratory Data Analysis
+To start with need to fix data issues Like:
+1. Data Sourcing : Data form Public or Private sector for any alalysis.
+2. Data Cleaning: 
+	Making the data into proper format.
+	Fixing Rows: Removing invalid rows or fixing with values for other data bases,.
+	Fixing Columns: Renaming Columns consistently.
+	Standardising values: To make the values consistent like in Weight in Kilo instead of few in LB and few in others.
+    Invalid Values: Mobile number more than 10 digits is invalid need to be corrected.
+    Filter the Data: Aggregate the data say usin9g group function.De duplicate the data.
+3. Univeriate Analysis:
+4. BNi veriate Analysis:
+5. Derived Metrics:
+	Stevens Typology classifies variables into Four types:
+	1. Nominal: No relation between variables like red,blue,greemn
+	2. Ordinal: They follow some order but no mathematical differences.(Primary/Secondary)
+	3. Interval: Variables with mathematical differences: kmph 50kmph and 100kmph
+	4. Ragtio: No mathematical differences but have ratio like Multiplication/division. $100 and $50.
+ 
