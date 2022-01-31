@@ -1,11 +1,8 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
 
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+print("Students whose names start with letters between Q-Z")
+# Your name
+Yagnesh C
+#The module name of your choice from Course 3
+Git and Git Hub
+#3-4 sentences on your learnings from that module
+Learnt version control system, differnce between Git and Git hub, Concepts like fork, clone, branching.
