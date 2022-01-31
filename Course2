@@ -7,7 +7,6 @@ You can choose one module from the list below:-
 Nazneen Ansari
 Divide and Conquer Algorithms
 Divide and Conquer Algorithms can be divided into the following three parts:
-
 1. Divide: This involves dividing the problem into smaller sub-problems.
 2. Conquer: Solve sub-problems by calling recursively until solved.
 3. Combine: Combine the sub-problems to get the final solution of the whole problem.
