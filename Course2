@@ -6,4 +6,9 @@ You can choose one module from the list below:-
 
 Pawan Dubey
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Understanding the problem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Pragati Singh
+Divide and Conquer Algorithms
+It is an algorithm design paradigm. A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the same or related type,
+until these become simple enough to be solved directly.
