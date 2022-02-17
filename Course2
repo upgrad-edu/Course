@@ -1,9 +1,14 @@
 What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Mangirish Kavlekar
+Introduction to Git and GitHub
+I learned the below :
+1.There are three types of Version Control Systems (VCS):
+Local
+Centralised
+Distributed
+2. How to use a set of commands on the command line to push all your code from your local system to your GitHub remote repository.
+3. How to revert back to previous stable versions of codes.
+4. How to create a branch for experimentation and merge it back to the master branch.
