@@ -1,12 +1,10 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Since I have not learned given modules, I will write about EDA which I finished recently.
 
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Ambily M
+Exploratory Data Analysis
+The course had taken us through various concepts of EDA. Below is a summary of that:
+1. Explained Various data sources and the type of data which we analyse, and challenges in collecting the data.
+2. Necessity of cleaning the data and the techniques for the same.
+3. Explained various EDA techniques - Univariate analysis, bivariate analysis, segmented analysis
+4. How to derive the useful outcomes from the analysis
 
