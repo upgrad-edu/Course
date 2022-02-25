@@ -9,4 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Aishah Jhumka
+Divide and Conquer Algorithms
+It is meant to solve very complex problems.The latter is divided into subproblems and each problem chunks are solved recursively. 
+Each solution is then combined to get the desired output. This approach is suitable for multiprocessing system.
+ 
