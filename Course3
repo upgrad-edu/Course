@@ -4,8 +4,9 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-
-Pawan Dubey
+Suraksha G Bharadwaj
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Dynamic Programming is an algorithmic technique for solving an optimization problem by breaking it down into 
+simpler subproblems and utilizing the fact that the optimal solution to the overall problem depends upon the 
+optimal solution to its subproblems.
 
