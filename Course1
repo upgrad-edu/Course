@@ -9,4 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Aishwarya K Shetty
+Divide and Conquer Algorithms
+Divide and conquer technique involves recursively breaking the problem into sub problems untill they can be solved diretly
+Finally we combine the solution of sub-problems to get the solution to the original problem
+Example:Merge sort
