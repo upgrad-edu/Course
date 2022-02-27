@@ -10,3 +10,8 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+GAYTHRI T 
+Divide and Conquer Algorithms : 
+1. Relatively breaks down a problem into 2 or more sub-problems of same or related type.
+2. Solve sub-problems by recursive functions.
+3. Combine the sub-problems to get the final solution of the whole problem.
