@@ -1,11 +1,6 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Name: Rohit Chaudhary
 
+Module: Contributing to open source libraries
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+This module explains how we can make contribution to various open source libraries that could be used by all the developer communtity all over the world.
+it involves forking a repository of your interest to your account and then cloning that to local drive and subsequnelt making neccesary changes and creating new branch and pushing changes to remote repository in Git Hub and sending request for merging the contribution by community.
