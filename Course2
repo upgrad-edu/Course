@@ -1,9 +1,6 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Name - Kunal Arneja
+Course - Exploratory Data Analysis
+Learnings - 
+1. Importance of data cleaning, domain knowledge, etc before even starting to solve a problem.
+2. How to look at relationship of a feature to label, correlation between features.
+3. Different kinds of metrics that can be derieved from data type, business driven, etc.
