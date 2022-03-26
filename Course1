@@ -10,3 +10,10 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Divya Sodha
+Divide and Conquer Algorithms
+A divide and conquer algorithm is a strategy of solving a large problem by
+   1) Divide - breaking the problem into smaller sub-problems
+   2) Conquer - solving the sub-problems, and
+   3) Combine - combining them to get the desired output.
+Its applications are for example Binary search, Quick Sort and Merge Sort algorithms.
