@@ -1,11 +1,4 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
-
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Rudranil Gupta
+Bivariate Analysis
+Bivariate analysis is used to understand how one variable affects another variable while performing analysis on a particular dataset. In bivariate analysis, we are finding out the correlation between the two variables considered for analysis : whether increase in one variable leads to a decrease of the other, whether increase in one variable leads to a increase of the other or increase/decrease of one variable doesn't affect the other. 
 
