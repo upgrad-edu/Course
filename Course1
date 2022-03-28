@@ -10,3 +10,7 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+C V S Sainadha Krishna
+Algorithm Analysis
+How to analyse the time and space complexities of an algorithm and different notations of the same (Omega, Thetha and Big-O). Some common known Big-O complexityfunctions
+
