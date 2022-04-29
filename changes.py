@@ -12,4 +12,4 @@ def change2(string):
 def change3(string):
     for char in string:
         if char[0].isin('Q','R','S','T','U','V','W','X','Y','Z'):
-            print('make changes to file Course3')                        
+            print('make changes to file Course3')
