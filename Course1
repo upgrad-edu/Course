@@ -9,4 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Amit Hansani
+Divide and Conquer Algorithms
+Divide and Conquer alogorithms like Binary Search, Merge Sort, Quick Sort, etc. These algorithms wrok on concept of breaking the array/list in each iteration and perform search or sort in each iteration to seperate parts.
+
 
