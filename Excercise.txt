@@ -1,0 +1,6 @@
+Amit Arora
+
+Dynamic Programming
+
+Dynamic Programming helps to solve problem and repitative task is automated using structured code
+
