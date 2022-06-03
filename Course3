@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Santosh Krishnan
+Divide and Conquer Algorithms
+The goal here is to break the problem in to smaller problems and solve them to completion. Finally you combine all of these small problems to get to the final answer. Best example to understand D&C algorithms is to understand quicksort.
