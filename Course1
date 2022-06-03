@@ -9,4 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Har Shobhit Dayal
+Algorithm Analysis
+Algorithm analysis deals with analyzing the space and time complexity taken by an algorithm.
+Worst case scenario is mostly taken in calculation of  time complexity of an algorithms.
+Algorithm analysis can help in choosing the algorithms which are more efficient than others.
 
