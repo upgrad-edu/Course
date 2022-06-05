@@ -9,4 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Balwant Rai
+Dynamic Programming
+Understanding the problem and implementing a solution which is space and time efficient by structuring it into sub problems.Dynamic programming works by saving the results of subproblems so that we don’t have to recalculate them when their solutions are needed.
+
 
