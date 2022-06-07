@@ -7,3 +7,8 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Manikandan SM
+Divide and Conquer Algorithms
+Whenever there is a bigger problem , we will split them into smaller pieces like subproblems, solve the subproblems and then merge the subproblems will solve the main problem
+
