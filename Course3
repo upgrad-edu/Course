@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Shadab Ali Khan
+Divide and Conquer Algorithms
+In Divide and Conquer Algorithms we divide a larger problem into smaller subproblems. In doing so the larger problem is divided into multiple smaller problems and we solve each subproblem only once and combine the results to get the solution for the larger problem.
