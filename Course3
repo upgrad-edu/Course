@@ -4,8 +4,10 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Name- Shiv Malhotra
+Course Name- Git & Git Hub(Forking & Cloning)
+3 takeaways:-
+a. We forked the numpy library into our user. Forking a repository basically means copying the entire repository into your repository.
+b. After forking the repository, you saw the different branches in the repository. Developers across the globe use different branches to develop different features in the library.
+c. To download the code in your local repository, you use the ‘git clone <https link>’ command.
 
