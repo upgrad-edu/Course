@@ -5,7 +5,17 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+RamaKrishna Reddy
+Expolratory Data Analysis (EDA)
+We learnt different analysis on the data like.
+    - UniVariate Analysis - Analyszing the data based on the values of the single column, using Hist plot, bar plot, boxplot
+    - BiVariate Analysis - Analysing the data while comparing the two different columns
+        - Understood how to calculate correlation between two columns
+        - How to use Line plot, scatter plot
+        - How to group the columns
+    - Derived Metrics
+        - Type Driven Metrics
+            - Steven typology of classifying variables
+        - Business Driven Metrics
+        - Data Driven Metrics
 
