@@ -7,3 +7,9 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Manoj Bisht
+Divide and Conquer Algorithms
+Braching concepts will help many developers work on same project without any intruption on diffrent sub parts,
+also reduce the risk of false code in master branch, it will save time when project divided into sub projects and 
+then many developers works parallely on same projects with diffrent sub project.
