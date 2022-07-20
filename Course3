@@ -9,3 +9,5 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sujay Kondanekar
+Dynamic Programming: Whenever there is a solution that involves recursion to solve for same inputs, we can store the result of previous computation to avoid redundant compute later. This simple technique reduces time complexities to a great extent.
