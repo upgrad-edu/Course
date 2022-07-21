@@ -9,4 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Chaya Lakshmi
+Divide and Conquer Algorithms:
+Divide the problem into no of sub problmes that are smaller instances of same problem.
+Solve the sub problems and combine the solutions of sub problems into one which is the original solution
