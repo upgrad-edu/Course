@@ -1,9 +1,3 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Justin Houghton
+Exploratory data analysis
+Averages can hide the full picture of data. Often times data will have a skewed distribution but looking at a box plot can help you identify the right next steps. When looking for patterns in data, its often useful to combine two metrics to create one business metric that can help you see the data in a different light. One example of this is combining weight and height to build a BMI metric. 
