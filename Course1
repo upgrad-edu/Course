@@ -9,4 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+1. Anuja Gurav
+2. Divide and Conquer Algorithms
+3. Divide and Conquer Algorithms are used to solve big problems, where it divides the problem in smaller sub-problems, solve those sub-problems and then combine the sub-problems to get final solution of the whole problem.
