@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Vinay Pai
+1) Algorithm Analysis
+Got to learn the various aspects of analysing a given code in terms of readability, efficiency and maintainability, not necessarily in that order. How to do dry runs and suggest what changes to the code could improve performance, what ready to use libraries are included and used in the code, and whether they can be deemed sustainable to use in the future too, all of these are important aspects of analysing algorithms.
+
+
+
