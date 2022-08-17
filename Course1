@@ -9,4 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Ashutosh Kulkarni
+Python for Data Science
+- Pandas Series and Dataframes, which are the basic data structures in the Pandas library
+- Indexing, selecting and subsetting a dataframe
+- Merging and appending two dataframes, which can be done using the .merge and .concat commands
 
