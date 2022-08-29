@@ -9,4 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Ashwani Bhat
+Python for Data Science
+Understanding of numpy and pandas. Numpy support multi-dimensiona arrays and mathematical operations on these array. Pandas is built on top of numpy and allows to to store and manipulate tabular data or Dataframe.
 
