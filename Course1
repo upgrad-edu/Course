@@ -5,8 +5,7 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
+Hansa Meghwani
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
-
+Dividing the problem into sub- problems and storing the solution of small sub -problems to use it repeatedly in the process
+of solving the big problem, so as to reduce the time complexity
