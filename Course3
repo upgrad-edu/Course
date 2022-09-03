@@ -5,6 +5,10 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
+Thariq Khalid
+Divide and Conquer Algorithms
+Merge sort is one of the divide and conquer algorithms with O(nlogn) complexity. It makes use of recursion to acheive this
+
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
