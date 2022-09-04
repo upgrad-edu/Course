@@ -5,7 +5,7 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Name : Sugnanam Satya Meghana
+Module : Dynamic Programming
+For recursive problems, time complexity will exponentail of n for resolving this one Dynamic Programming came to existence. By using DP we can reduce time complexity if we move to that step then it stores the value, by this if we encounter same step later then no need to calculate again. We can directly from the help of n dimension array.
 
