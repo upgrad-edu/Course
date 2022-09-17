@@ -10,3 +10,13 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Githen Ronney
+EDA
+Data sourcing, Data Cleaning, Univariate Analysis, Bivariate Analysis, derived metrics
+Data sourcing gives an idea about data sources
+Data cleaning helps to clean the data for analysis
+Univariate analysis helps to find the distribution of a variable in a given data set
+Bivariate analysis helps to find the relationship between two variables
+Derived metrics enables us to create a new variable from the given variables in the dataset 
+
+
