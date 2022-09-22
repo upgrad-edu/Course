@@ -1,12 +1,11 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Abhinav Tyagi
 
+Python
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+- High level interpreted language.
+- about 20 to 100 times slower than C/C++ code, therefore data analysis libraries like Numpy and Pandas are written in C. 
+- One of the greatest features of python is its ability to invoke code written in other languages.
+- Comprehensions have made map, reduce and filter functions mostly outdates. Reduce function is so hated by Python's founder that its removed as a core python feature now.
+- While the inbuilt data structures of Python are very powerful, to be able to use real C type arrays, one has to use extended libraries.
 
 
