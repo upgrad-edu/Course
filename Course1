@@ -9,4 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Akik Ranade
+Algorithm Analysis
+Algorithms efficiency is described in terms of Time and Space wherein the time efficiency calculated using CPU utilization & the Space efficiency is calculated using memory and disk usage of an algorithm. As a developer we should know the difference between Performance & complexity. Complexity analysis doesn't depend on any computer resource & may change based on the input size, since, the algorithm's performance is machine independent and does not depend on any other factors as well.
