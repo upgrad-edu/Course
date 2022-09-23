@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+
+Ravikiran Kongati
+Algorithm Analysis
+Analysis of algorithm is the process of analyzing the problem-solving capability of the algorithm in terms of the time and size required (the size of memory for storage while implementation).
+However, the main concern of analysis of algorithms is the required time or performance.
+To solve a problem, we need to consider time.
