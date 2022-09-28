@@ -7,3 +7,12 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+
+James Thomas Rajesh Jeyabalan
+Git & GitHub
+
+Revert used to rollback changes to the previous version
+Reset --hard option used to rollback to a specific commit in the past with the caveat that intermediate commits are erased.
+Branch is an alternate to test and merge the changes to the main trunk 
