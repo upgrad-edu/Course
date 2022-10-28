@@ -7,3 +7,7 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Kevin Carone
+Divide and conquer algorithms
+break up a problem into pieces and solve them one by one. For example break each part into a function. Break each function up into processes inside the function.
