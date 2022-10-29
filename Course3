@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Ratnesh Zinzuwadia
+Divide and Conquer Algorithms
+This technique can be divided into the following three parts:
+- Divide: This involves dividing the problem into smaller sub-problems.
+- Conquer: Solve sub-problems by calling recursively until solved.
+- Combine: Combine the sub-problems to get the final solution of the whole problem.
