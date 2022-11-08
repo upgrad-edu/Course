@@ -7,3 +7,9 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Paratyaksh Singh
+Algorithm Analysis
+Analysing an algorithm means finding the memory or space required and time taken in its execution.
+There can be 3 cases under which we find its requirements - best case, worst case and average case.
+Divide and conquer Algo and Dynamic programming are a way to design algorithms 
