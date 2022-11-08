@@ -5,8 +5,17 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Ajit Shinde
+Divide and Conquer Algorithms - 
+1. This technique can be divided into 3 parts: 
+	Divide: This involves dividing the problem into smaller sub-problems.
+	Conquer: Solve sub-problems by calling recursively until solved.
+	Combine: Combine the sub-problems to get the final solution of the whole problem.
+2. A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. 
+3. The solutions to the sub-problems are then combined to give a solution to the original problem
+4. With this approach the difficult problem can be solved easily.
+5. Reduces time complexity of the problem
+
+
 
 
