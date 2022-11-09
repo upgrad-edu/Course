@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study - EDA
 This is part of EDA demonstartion on a lending club data where we are tasked in identifying the factors which could be red flags for applicants likely to default on re-payment.
 
 
