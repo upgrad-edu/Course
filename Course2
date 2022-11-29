@@ -9,7 +9,7 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
-Nitin Bantwal
+Nitin B
 Dynamic Programming
 Dynamic programming was developed by Richard Bellman in the 1950s and has found applications in numerous fields. The idea is to break down complex problems into 
 simpler sub programs. In computer programs it can help hence make your code faster and reduce the over resource usage (CPU etc)
