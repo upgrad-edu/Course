@@ -1,0 +1,3 @@
+Tanya Jain
+Exploratory Data Analysis
+Understanding how to find insights on a dataset by univariate and bivariate analysis
