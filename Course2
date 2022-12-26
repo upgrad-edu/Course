@@ -7,3 +7,12 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Puneeth
+Exploratatory Data Analysis
+How can be derive some meaning info from the data
+	1. Univariate Analysis - Analyze the single variable( Column ) in the given dataset
+	2.Segmented Univariate Analysis 
+	3. Bi Variate Analysis -  Analyze multiple variables and its relation in the given dataset
+	4. Derived Metrics - Creating different columns/variables from existing columns based on the type/ business driven approach to derive some insights from the given dataset.
+
