@@ -1,9 +1,9 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Name: Mickell Als
+Module: Module 3 - Introduction to Git and Github
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+1) The history of Git and Github and the significant impact distributed VCS have had on collaboration of developers globally
+2) using BASH to download Git software and initialising a git repositiory locally and the commands for BASH like ls, cd, mkdir 
+3) connecting your local repository to your github using https and SSH as well as the commands used such as init, config, push, commit and add
+4) forking a repositiory and cloning it and how this can be used for open source projects to submit your won code to these projects. 
+
+END
