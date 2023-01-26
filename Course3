@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Varada Venkata Krishna Mangalagi
+Divide and conquer algorithms
+Divide and conquer algorithms are a general algorithmic strategy that involves breaking down a problem into smaller, more manageable subproblems, solving each of the subproblems independently, and then combining the solutions of the subproblems to solve the original problem. This strategy is often used in recursive algorithms, where the function calls itself on smaller subproblems. Examples of divide and conquer algorithms include merge sort, quick sort, and the Karatsuba algorithm for fast multiplication of large integers.
