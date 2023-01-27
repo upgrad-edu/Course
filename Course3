@@ -9,3 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sheetal
+Currently we have only 2 courses opened up. I do like the Course 1 on python 
+We learnt basics of python, usage of variables. How variables are used to store num, strings and such. Futher we learnt about lists,sets,tuple,dictionaries. This was followed by conditional statements, arithmetic operations, string operations on the variables.
+Then we learnt about numpy module and how they are faster adn efficient than lists. Further we learnt about pandas and how dataframe helps to allign data from sql,csv, and others to table format data which can be used to perform analysis and render useful insights into data. The same is then used in data visualization to plot amazing graphs using matplotlib.pyplot  module.
