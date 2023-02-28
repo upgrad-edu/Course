@@ -7,3 +7,7 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Narendra Singh Shekhawat
+Divide and Conquer Algorithms
+You should think of a divide-and-conquer algorithm as having three parts: Divide the problem into a number of subproblems that are smaller instances of the same problem. Conquer the subproblems by solving them recursively. If they are small enough, solve the subproblems as base cases.
