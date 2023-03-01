@@ -10,4 +10,6 @@ Understanding the prolem and implementing a solution which is space and time eff
 
 Parth Gandhi
 Dynamic Programming
-Dynamic programming is both a mathematical optimization method and a computer programming method
+Dynamic programming is both a mathematical optimization method and a computer programming method.
+It is mainly an optimization over plain recursion.
+This simple optimization reduces time complexities from exponential to polynomial.
