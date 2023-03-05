@@ -5,7 +5,10 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Name: Vikram N
+Module: Dynamic Programming
+Description: 
+1) Dynamic Programming is a problem-solving technique that is used to solve complex problems by breaking them down into simpler subproblems and solving each subproblem only once. 
+2) It is based on the idea of using previously computed solutions to solve a larger problem, rather than recomputing the solutions every time. 
+3) The technique can be used to solve a variety of problems, such as optimization, resource allocation, and sequence alignment, among others.
 
