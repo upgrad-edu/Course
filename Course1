@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Ankush Kshirsagar
+Dynamic Programming
+It is an optimization over plain recursion. A recursive solution that has repeated calls for same inputs, can be optimized using Dynamic Programming. This simple optimization reduces time complexities.
