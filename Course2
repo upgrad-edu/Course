@@ -4,6 +4,6 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+1. Kuljeet Babber
+2. Divide and Conquer Algorithms
+3. It is a good approach to solve complex problem. As the alogorithm states, We break down the large problem into small problems and try to find solution for them. And at last, combine the solutions to get the final solution to the complex proble. It is only applicable on problems that can be divided into sub-problems. 
