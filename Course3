@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Srikrishna S Kashyap
+Divide and Conquer Algorithms
+Divide and Conquer is a useful algorithmic strategy that involves breaking down a problem into smaller subproblems, solving them recursively, and then combining the solutions to obtain the final result.
