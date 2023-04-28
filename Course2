@@ -7,4 +7,4 @@ You can choose one module from the list below:-
 
 Indraneeel Pradhan
 Divide and Conquer Algorithms
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Understanding the prolem and implementing a solution which is divide the the problems into sub sub part, the sub part sent that solution to their parent.
