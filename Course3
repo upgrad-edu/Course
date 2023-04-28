@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Vaibhav Kumthekar
+Algorithm Analysis
+In the analysis of the algorithms we focus on CPU time usage, memory usage & network usage. Performance of algorithm not only depends on these 3 factors but also depends on code written. 
