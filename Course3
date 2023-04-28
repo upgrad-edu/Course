@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Tanisha Sinha
+Dynamic Programming
+Dynamic programming algorithms are used to solve both linear and non-linear problem. The ease to debug these algorithms. The problems are broken into smaller sub-problems and the problems are solved from smallest to largest, allowing solutions to be reused.
