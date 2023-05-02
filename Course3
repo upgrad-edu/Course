@@ -5,7 +5,10 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Sangbeda Das
+Preferred: Dynamic Programming
+Key takeaways from this course:-
+1.The primary principle of dynamic Programming is to solve a complex problem by first breaking it down into simpler subproblems, solving each subproblem just once, and then storing the solutions to avoid repetitive computations.
+2.The complexity of dynamic programming is reduced by reducing state space.
+3.It is almost an optimization over plain recursion.
 
