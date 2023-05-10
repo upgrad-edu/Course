@@ -7,3 +7,10 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Janardan Chavan
+Divide and Conquer Algorithms
+This module helps us to break down the big and complex problem into the smaller parts and helps us to resolve the problem more effectively.
+For example, in Excel, if we need to write nested if statement, we can first break it down into the individual (inner) if statements. Test the outputs and then once all look good, we can combine it into the single nested if statement.
+This way we can divide the main problem into the smaller parts, solve it and re-assemble it into the main single problem/module. This methodology helps us to achieve the results better way as well as with more accuracy.
