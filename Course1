@@ -10,3 +10,29 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Dasari Laxmi Santhosh kumar
+Variables and Data-types
+Variables: Variables are containers which stores the data of particular type
+
+Data-types: Data types are the amount of space required to store for different variables
+Premitive data types:
+1. int - which stores Integer values with 32 bits storage. Range is -2^31 to 2^31-1.
+2. long - stores Integer values with 64 bits capacity. range is -2^63 to 2^63 -1.
+3. short - stores Integer values with 16 bits capacity. range is -2^15 to 2^15-1.
+4. byte - stores Integer values with 8 bits capacity. range is -128 to 127.
+5. float - stores decimal values. It can store 7digits after decimal point. by default java stores decimal values in double data type, to differentiate between double and float, float values are indicated with letter 'f' at the end of value.
+6. double - stores decimal values. It is used for higher decimal points for high accurate values.
+7. char - stores single digit values of alphabets/numbers/special characters.
+8. boolean - stores either true or false. it is of 1bit. true values are stored as '1' and false values are stored with '0'.
+
+
+any operation between two integers will give the result in the form of Integer itself even though it is saved with double as a result, it will not give the accurate value.
+any operation between two double values can only store in double data type, cannot store in integer data-type as it throws an incompatable datatype error because there might be a loss of information
+
+Scanner to scan the input value and store it in variables.
+
+Casting: casting is a process of assigning a value of one primitive data type to another.
+
+char: char is a data type is used to store single character in it and you can assign or call ASCII values of it.
+
+ASCII values: ASCII is the Information Interchange code used in the back end to store character in char Data type.
