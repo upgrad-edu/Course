@@ -10,3 +10,8 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Gowtham Ravichandran
+Divide: Divide the given problem into sub-problems using recursion.
+Conquer: Solve the smaller sub-problems recursively. If the subproblem is small enough, then solve it directly.
+Combine: Combine the solutions of the sub-problems that are part of the recursive process to solve the actual problem.
+
