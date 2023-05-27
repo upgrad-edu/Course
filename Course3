@@ -9,3 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Vineet Juneja
+We are completing Course 1 per our current academic schedule.  From Course 1 I will summarize learning sfrom Data Structures and Algorithms 
+- there are various ways to write neater algorithms that have lesser time complexity
+- time complexity is both Memory and Time and we need to ensure that we write the most optimal code; when intelligently applied, focus on  big O keeps your programs more efficient
+- don't overuse the memory by redundant variables as that puts further stress on the resources
