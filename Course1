@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Eeshan Gupta
+Data Visualization in Python
+The module gave an introduction to visualization of data using Matplotlib, Seaborn and Plotly. Matplotlib is a the go to library for data visualization but provides very basic looking visuals. On the other hand Seaborn, which is built atop Matplotlib, provides better looking static visuals and Plotly provides interactive visuals.
