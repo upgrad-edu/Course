@@ -7,3 +7,12 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Pragya Thakur
+Divide and Conquer Algorithms
+1. Divide and conquer algorithms use backtracking approach to solve the problem .
+Its basic idea is to decompose a given problem into two or more similar, but simpler, subproblems, to solve them in turn, and to compose their solutions to solve the given problem.
+There are two fundamental of Divide & Conquer Strategy:
+
+Relational Formula
+Stopping Condition
