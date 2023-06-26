@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Suma Santosh
+Divide and Conquer Algorithms
+Dividing big problem into smallest problem subsets, which can be easily solvable and merging the solution in efficient manner,these algorithms very popular, andcan be applied wherever suitable based on the nature of the problem 
