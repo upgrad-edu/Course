@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Chaithanya Veluru
+Exploratory Data Analysis
+EDA is the first step after data sourcing. This is a very essential initial step for the data scientist to get comfortable with the data, clean it and sanitize it. This will then get the data ready for exploratory analysis, that is, Univariate, Bivariate or Segmented Univariate Analysis.
