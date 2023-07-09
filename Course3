@@ -5,7 +5,13 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Vikash Kumar
+Logistic Regression
+It's a classification model used for making prediction in cases where the output is categorical variable.
+Maximum likelihood estimation is used for finding the best fit sigmoid curve (cost function).
+Once the model is built, the evaluation metrics used on the model are:
+- Accuracy
+- Sensitivity, specificity
+- ROC curve
+- Precision and Recall
 
