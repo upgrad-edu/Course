@@ -9,3 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Shruthip Venkatesh
+Divide and Conquer Algorithms
+Recursively breaks down a problem and solving it in small subset and merging back the solutions to solve the original problem.
+An example for this algorithm is "Merge Sort"
