@@ -1,11 +1,12 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Name : Venkata Gautham Botta
 
+Module Names : 
+a. Learning Git and GitHub
+b. Git commands.
+c. Resetting and Reverting
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Learnings :
+a. Learning about version control.
+b. Types of version control.
+c. git commands to add new files, commit, push
+d. reset to stable build and revert to older commits.
