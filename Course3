@@ -4,8 +4,12 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Ratnakar
+Algorithm Analysis
+1.Algorithm analysis provides essential tools to evaluate and compare the efficiency of algorithms, aiding in making informed decisions about which algorithm to use for specific tasks.
+2.Big O notation serves as a powerful way to describe an algorithm's time and space complexity, helping us understand how an algorithm's performance scales with input size.
+3.Through algorithm analysis, we learn that the pursuit of optimization involves trade-offs, where choosing one aspect to improve (like time complexity) might lead to compromises in another (such as space complexity)
