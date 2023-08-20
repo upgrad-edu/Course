@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Deepak
+Algorithm Analysis
+Algorithm analysis is a crucial aspect of computer science and software engineering which involves evaluating and understanding the performance of algorithms in terms of their time complexity, space complexity, and other relevant factors. It helps in making informed decisions about selecting the most suitable algorithm for a given problem, optimizing code, and predicting how an algorithm will perform as input sizes grow.
