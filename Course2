@@ -1,9 +1,9 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Prasad Joshi
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Module : Exploratory Data Analysis
+Learnings:
+1) How different data is sourced
+2) Why data neds to be cleaned before it can be used for analysis
+3) Univariate analysis - How single variables can be used for analysis and what mean, median and standard deviation can help us determine
+4) How bivariate analysis can help us find the correlation between two variables which will help us find how much they are affecting each other
+5) How derived metrics can be calculated using existing variables
