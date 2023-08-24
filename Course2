@@ -6,4 +6,8 @@ You can choose one module from the list below:-
 
 Kunal Sahu
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Here are some key concepts and characteristics of dynamic programming:
+
+1. Optimal Substructure: Dynamic programming problems can be broken down into smaller subproblems, and the optimal solution to the original problem can be constructed from optimal solutions to these subproblems. This property is known as optimal substructure.
+
+2. Memoization or Tabulation: There are two common approaches to implementing dynamic programming: memoization (top-down) and tabulation (bottom-up). Memoization involves caching the results of subproblems as they are solved recursively. Tabulation involves solving subproblems iteratively and building up to the solution of the original problem.
