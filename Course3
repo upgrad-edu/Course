@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Zaw Tun
+Divide and Conquer Algorithms
+Breaking down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly and easily combinable to give a solution to the original problem.
