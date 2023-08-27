@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Ritik Bobade
+Divide and Conquer Algorithms
+A divide and conquer algorithm is a strategy of solving a large problem by
+1.Breaking the problem into smaller sub-problems
+2.Solving the sub-problems, and
+3.Combining them to get the desired output.
