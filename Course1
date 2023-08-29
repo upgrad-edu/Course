@@ -9,4 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Name: Darshan BV
+Module Name : 
+used to solve problems by breaking them down into smaller subproblems, solving the subproblems, and then combining their solutions to solve the original problem. This approach is particularly useful for solving problems that can be divided into smaller independent parts, making it easier to manage and solve complex tasks.Common examples of problems that can be solved using the Divide and Conquer approach include sorting, searching, matrix multiplication, and various optimization problems.
+
 
