@@ -10,3 +10,9 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+1.Girish Bhattacharjee
+2.Exploratory Data Analysis
+3.Learnings - (a) Data before being consumed needs to be cleaned thoroughly to have meaningful insights (b) Based on the properties of the columns in question we can come up with different types of analysis
+(c) Even in a simple analysis technique like Univariate analysis, we can create rank-frequency charts to extract meaning and trend from a particular variable.
+
+
