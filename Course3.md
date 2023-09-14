@@ -1,7 +1,7 @@
 
-Vicky Kumar
+        Vicky Kumar
 
-Basic Git Commands - II
+        Basic Git Commands - II
 
 # Commands used
 
