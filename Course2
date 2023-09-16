@@ -7,3 +7,9 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Sumayya
+Dynamic Programming:
+Optimal Substructure: Understanding the concept of breaking a problem into subproblems and that the optimal solution can be constructed from the optimal solutions of its subproblems.
+Memoization: Using memoization to store and reuse the results of expensive function calls, which helps optimize the performance of recursive algorithms.
+Bottom-Up Approach: In dynamic programming, you often learn to build solutions iteratively, starting from smaller subproblems and gradually solving larger ones.

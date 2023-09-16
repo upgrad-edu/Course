@@ -9,3 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sumayya
+Divide and Conquer Algorithms:
+Divide Phase: Divide and conquer algorithms break a problem into smaller subproblems of the same type. You would have learned how to identify the divide phase and divide a problem into smaller instances.
+Conquer Phase: Solving the subproblems efficiently. In this phase, you apply the same algorithm recursively to solve the subproblems.
+Combine Phase: Combining the solutions of subproblems to obtain the solution to the original problem.
