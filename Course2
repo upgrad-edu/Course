@@ -7,3 +7,8 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Nithin Amin
+Testing and Version Control
+A pull request (PR) is a fundamental feature in collaborative software development, particularly in the context of Git and version control systems. It's a way for developers to propose changes to a repository, compare those changes with the existing codebase, and request that someone else (often a team lead or project maintainer) review and merge the proposed changes.
