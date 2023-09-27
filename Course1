@@ -9,4 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Geetha J
+Python for Data Science
+Learnts various techniques avialble in numpy and pandas librabries useful in data science.Pandas is mostly used for data analysis tasks in Python. NumPy is mostly used for working with Numerical values as it makes it easy to apply mathematical functions. Pandas library works well for numeric, alphabets, and heterogeneous types of data simultaneously.
+
 
