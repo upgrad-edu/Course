@@ -4,9 +4,6 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-
-Pawan Dubey
+Akash Kriplani
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
-
+Dynamic programming is a problem-solving technique used in computer science and mathematics. It involves breaking down complex problems into simpler subproblems and solving each subproblem only once, storing the results in a data structure like a table or array. This approach saves computation time by avoiding redundant calculations, making it particularly useful for optimization problems and recursive algorithms. Dynamic programming is widely used in fields such as algorithm design, artificial intelligence, and operations research to efficiently solve a wide range of problems.
