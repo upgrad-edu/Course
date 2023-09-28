@@ -5,8 +5,8 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
-
+Ankit Sharma
+Algorithm Analysis
+It is the process of comparing and evaluating algorithms with respect to their performance and efficiency.
+It analyses how an algorithm will perform when the sample size increases thereby helps the developers to find the best approach to solve a problem.
+The lessons that I got from it are the concepts of Space and Time Complexity Analysis of an Algorithms, how to calculate them and how algorithms can be optimized to produce better outcomes in terms of execution.
