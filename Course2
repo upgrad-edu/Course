@@ -7,3 +7,8 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Prakash
+we divide the original problem into multiple sub-problems until they cannot be divided further.
+Then these sub-problems are sovled with the help of recursion.
+once solved, all the subproblems are merged / combined together to form the final solution of the problem.
