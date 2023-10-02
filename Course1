@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Harish Babu
+Numpy & Pandas
+Numpy & Pandas are two critical components of the python stack that are required for machine learning & AI.  Here we learnt to use the two libraries and how we can do data processing & manipulation with the tools.  It helped us understand concepts like subsetting, array operations, plotting etc.
