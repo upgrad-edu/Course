@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Heena Jain
+Divide and Conquer Algorithms
+The divide and conquer approach divides a problem into smaller subproblems; these subproblems are further solved recursively.
