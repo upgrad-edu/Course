@@ -7,3 +7,13 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Mohinesh Tayade
+Divide and Conquer Algorithms-
+Divide: The initial problem is divided into one or more smaller, similar subproblems. This step often involves breaking a problem into two or more pieces.
+Conquer: Solve the subproblems recursively. In many cases, the subproblems are smaller instances of the same problem.
+Combine: Combine the solutions of the subproblems to obtain the solution of the original problem. This step often involves merging or aggregating results.
+Recursion: Divide and Conquer algorithms are typically implemented using recursive functions, where the algorithm calls itself on the smaller subproblems until they become trivial to solve.
+Optimal Substructure: Divide and Conquer problems exhibit the property of optimal substructure, which means that an optimal solution to the original problem can be constructed from optimal solutions to its subproblems.
+Parallelization: Divide and Conquer algorithms are well-suited for parallel and distributed computing because the subproblems can often be solved independently.
+Complexity Analysis: You can learn how to analyze the time and space complexity of Divide and Conquer algorithms. This analysis helps you understand the efficiency of the algorithm and its behavior as the problem size grows.
