@@ -5,7 +5,8 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
+Vaibhav Holkar
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+-> The main idea of dynamic programming is to consider a significant problem and break it into smaller, individualized components.
+-> The solution derived is space and time efficient. 
+-> There are two approcahes i.e top down approach and bottom up approach.
