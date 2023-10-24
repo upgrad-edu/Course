@@ -7,10 +7,3 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
-Kifah Muqalled
-Divide and Conquer Algorithms:
-1)Divide and conquer algorithms involve breaking down a problem into smaller subproblems.
-2)These subproblems are solved independently, and their solutions are combined to solve the original problem.
-3)Key concepts include recursion, where a function calls itself to solve smaller instances of the problem.
-4)Other important concepts include identifying base cases, defining the problem in terms of its subproblems, and combining the subproblem solutions.
