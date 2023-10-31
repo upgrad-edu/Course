@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Srinivasa Reddy M
+Divide and Conquer Algorithms
+This DS helps us to divide any complex problem or programmable module into small chunks and do it individually, and finally once each part is implemented, we can group it up together. Tha's Divide and Conquer.
