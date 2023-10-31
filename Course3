@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sneha Bajaj
+Divide and Conquer Algorithms
+Recursively breaking down a problem into two or more problem statements and then solve the sub problems and the merge the pieces into global solution.
+It helps in solving a complex problem with ease.It reduces time complexity of the problem.Efficient use of memory and also ensures multiprocessing.
+
+
