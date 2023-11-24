@@ -5,7 +5,6 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Sanat Srivastava
+Divide and Conquer Algorithms
+Divide a big complex problem into multiple smaller ones. Solve each part separately. Merge them together to obtain the final solution.
