@@ -1,9 +1,14 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Name : Pavan Lingambudhi Seshadri Vasan
+Topic of Interest : Exploratory Data Analysis
+What I learnt from it?
+- Exploratory Data Analysis is the first step that we do in order to find patterns, trends and relationships
+- After all these patterns are found, we will be making business decisions based on the information gained
+- The the first and one of the important steps involved is Data Sourcing.
+	- We must ensure that we are getting data from different possible and verified sources.
+	- If we don't end up getting any verified data, then we remove the columns that have a lot of empty values as they will not contribute to the analysis.
+	- It is not recommended to remove rows unless many of the column values in the rows are null or empty values
+- Data Visualization is an excellent strategy to check for patterns in data.
+- During EDA, Domain Knowledge will be extremely vital in checking for patterns as they can help in making explanations for the said patterns.
+- We first start off with finding the simplest of insights using univariate analysis and then gradually start with Bivariate Analysis.
+- When imputing the values of non-dropped columns, it is recommended to use the median as outliers can skew the mean. 
+	- The median can usually represent most of the dataset for a particular attribute
