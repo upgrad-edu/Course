@@ -7,3 +7,7 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Shubham Rai
+Divide and Conquer Algorithms
+A divide-and-conquer algorithm is a recursive programming technique that breaks down a problem into smaller sub-problems. The sub-problems are solved independently, and then their solutions are combined to solve the original problem. 
