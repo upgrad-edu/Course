@@ -5,7 +5,7 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Name: SHYAM MOHAN AZAD
+Module: Dynamic Programming
+Understood the concept behind dynamic programming such as we should break down an algorithmic problem into sub-problems and the find out the best solution for it. one of the example of it is Knapsack problem, where we were given n items with some associated weight and we have to find the maximum number item with minimum weight.
 
