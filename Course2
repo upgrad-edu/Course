@@ -1,9 +1,11 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Name - Palash Deep Baranwal
+Course - Course 2 - Bootcamp 
+Module - Module 6 - Week - 5: NumPy and Pandas - II
+Learnings from the module 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+1. Pandas Series and Dataframes, which are the basic data structures in the Pandas library
+2. Indexing, selecting and subsetting a dataframe
+3. Merging and appending two dataframes, which can be done using the .merge and .concat commands
+4. Grouping and summarising dataframes, which can be done using groupby() to first make an object and then use it to play around
+5. The pivot table function in a dataframe, which is similar to pivot tables in MS Excel
+
