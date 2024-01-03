@@ -9,3 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+
+SOUMIT SARKAR
+Divide and Conquer Algorithms
+We split a bigger problem into subproblems. The problems are non-overlapping in nature. Example: Binary Search Algorith which works on the principle of Divide and Conquer method.
