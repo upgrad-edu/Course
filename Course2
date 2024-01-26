@@ -7,3 +7,11 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Praveena
+Git branching
+there are situations where you may want to parallelly develop an existing project code,
+without making any changes to your initial/original branch. 
+You can accomplish this goal by creating different branches based on your need 
+(that is, creating a branch per team member or a branch for every new feature) 
+and each branch will have the same copy of the initial/original branch of the project source code.
