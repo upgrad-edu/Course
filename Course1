@@ -9,4 +9,11 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Hema Iyer
+Divide and Conquer Algorithms
+    1) It is a technique to solve algorithms by breaking them into smaller sub-problems of the same type
+    2) The sub-problems are recursively solved and the solution are then combined to solve the problem
+    3) Example - Binary search algorithm - This divides the search list into half with each iteration by trying to locate the element required in the middle position in a sorted list
+
+
 
