@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Akshay Thakur
+Algorithm analysis
+Algorithm analysis means understanding how efficient our algo is. It's all about figuring out how much time and space our algo needs to get the job done, whether it's at its best, worst, or somewhere in between. We also compare different algo to see which one is the most efficient. It helps us scale up our solutions, make smart decisions, and optimize our algos for maximum efficiency
