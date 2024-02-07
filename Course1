@@ -5,8 +5,38 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Abhishek Tomar
+Algorithm Analysis
+Understanding the problem and implementing a effective solution which is space and time efficients.
 
+Key aspects of algorithm analysis include:
 
+Time Complexity:
+Measures the amount of time an algorithm takes to complete as a function of the input size. It provides an estimation of how the algorithm's execution time increases with larger inputs.
+
+Space Complexity:
+Refers to the amount of memory or storage space an algorithm requires relative to the input size. 
+Space complexity analysis helps assess the efficiency of an algorithm in terms of memory usage.
+
+Big O Notation:
+A commonly used notation to express the upper bound or worst-case scenario of an algorithm's time or space complexity. 
+It provides an asymptotic upper bound, allowing for comparison between algorithms without getting into detailed constant factors.
+
+Best, Worst, and Average Case Analysis:
+Examines the performance of an algorithm under different scenarios: best-case (minimum resource usage), worst-case (maximum resource usage), 
+and average-case (expected resource usage under typical conditions).
+
+Asymptotic Analysis:
+Focuses on the behavior of algorithms as the input size approaches infinity. 
+It helps identify the dominant terms that contribute most to the overall time or space complexity.
+
+Empirical Analysis:
+Involves measuring and analyzing the actual performance of an algorithm through experimentation. 
+This can provide insights into real-world behavior and is often used in addition to theoretical analysis.
+
+Algorithm Efficiency:
+A holistic assessment that considers both time and space complexities, aiming to identify algorithms that strike a balance between resource usage and performance.
+
+Trade-offs:
+In some cases, algorithms may have trade-offs between time and space complexity. 
+Analyzing these trade-offs is crucial when selecting an algorithm based on specific application requirements.
