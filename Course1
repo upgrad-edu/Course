@@ -9,4 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Abhijit Ray
+Dynamic Programming
+It is a way of keeping or storing results of recursive calls where by the output will go back as inputs to itself. It is something like generating a Fibonacci series.
