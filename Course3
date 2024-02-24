@@ -7,6 +7,5 @@ You can choose one module from the list below:-
 
 Tejas Hankare
 Dynamic Programming
-
 Dynamic Programming is a method for solving complex problems by breaking them down into simpler subproblems. By solving each subproblem only once and storing the solutions, it avoids redundant calculations, making it more efficient than a naive recursive approach. This technique is commonly used in algorithm design and optimization problems. 
 
