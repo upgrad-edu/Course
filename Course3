@@ -5,7 +5,8 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
+Tejas Hankare
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Dynamic Programming is a method for solving complex problems by breaking them down into simpler subproblems. By solving each subproblem only once and storing the solutions, it avoids redundant calculations, making it more efficient than a naive recursive approach. This technique is commonly used in algorithm design and optimization problems. 
 
