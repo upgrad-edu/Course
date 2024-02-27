@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Venugopal Pamidipati
+Divide and Conquer Algorithms
+Divide and Conquer is a problem solving paradigm in algorithm design that involves breaking down a problem into smaller, more manageable subproblems, solving each subproblem independently, and then combining their solutions to form the solution to the original problem. The general approach can be summarized in three steps: divide, conquer, and combine.
