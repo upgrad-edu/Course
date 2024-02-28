@@ -9,9 +9,3 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-Sahana C
-Divide and Conquer Algorithms
-It is a startergy to solve problems by diving the data into smaller sub problems and recursively calling them wherever it is needed.
-It is usefull when there is larger dataset for analysis.
-
-
