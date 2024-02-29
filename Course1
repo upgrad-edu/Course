@@ -8,5 +8,12 @@ You can choose one module from the list below:-
 Chanchal Narang
 git and github
 its a dvcs ,highly used in inductury its commands
+1.git status to see untracked files
+2.git add file_name to stage changed file
+3.git commit -m message
+4.git push,it will go to your github repo and saved
+5.Then raise Pull request to merge code in master
+6.pull request merged
 
 i haven't gone any of the modules till noe
+
