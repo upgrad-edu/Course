@@ -1,11 +1,13 @@
 What are the key concepts you learnt from these courses
 You can choose one module from the list below:-
-1)Algorithm Analysis
+1)Git
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Satyam Singh
+Version Control System (Git and Github)
+I learned how to:
+1. initialize a directory as git directory: git init 
+2. How to add untracked file to git for tracking: git add
+3. The status of directory: git status 
