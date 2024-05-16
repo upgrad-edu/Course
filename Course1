@@ -4,9 +4,8 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Ashwin S Kumar
+Dynamic programming
+Simply means identifiying and solving smaller parts of a big problem part by part and storing them, slowly working through with the stored solutions and finally solving the main problem. Reduces computation time
 
 
