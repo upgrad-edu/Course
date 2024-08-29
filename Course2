@@ -7,3 +7,8 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Name: Irshad AHamed
+Module: Dynamic Programming
+Learning: Learnt about how dynamic programming works.Dynamic programming breaks down problems into smaller subproblems that can be solved recursively or iteratively. Dynamic programming stores the answers to subproblems in a table or matrix so they don't need to be recomputed. This saves time and helps find the optimal solution
+
