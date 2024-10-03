@@ -9,4 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Hrishabh Dubey
+Algorithm Analysis
+Algorithm analysis has taught me the importance of evaluating the efficiency of algorithms in terms of time and space complexity. Understanding concepts like Big O, Omega, and Theta notations has helped me assess performance bottlenecks and optimize code. Additionally, I’ve learned to compare different algorithms and choose the most suitable one based on the specific constraints of a problem, such as input size or available resources. This knowledge enhances my ability to write scalable and efficient code.
