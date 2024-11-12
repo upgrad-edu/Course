@@ -7,3 +7,12 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Lokesh Kumar
+Exploratory Data Analysis
+
+Concepts learnt are: 
+1. You need to idetify source data type whether you would private data or public data for your analaysis
+2. Next step is to perform cleansing on the source data.
+3. Thrid step is to generate analysis using univariate, bivariate and derived metrics
