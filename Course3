@@ -5,7 +5,7 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Santhosh balaji
+I am choosing the module dynamic programming.
+Dynamic programming is simply a combination of Recursion and Memoization. Recursion is nothing but a function calling itself until the final solution is obtained. Recursion is a technique to break down complex problems into smaller problem and use its result to next smaller problem. Without base case, the function is repeatedly called and crash the problem. Memoization follows top-down approach and is a technique to store the overlapping problem solution to avoid repeated computation to save time consumption. Therefore, dynamic programming uses recursion technique to break down complex problem into smaller problems and store the solution to avoid repeated computation. Dynamic programming is not used for all recursion problems, it is used for overlapping solutions of sub-problems like fibonacci series.
 
