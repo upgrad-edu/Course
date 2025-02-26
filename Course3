@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Tejus Raju
+Algorithm Analysis
+Learnings from the module:
+	- Understanding different algorithms and the underlying problem statement it tries to solve
+	- Trying to fit the current problem statement to the ones that have been solved using these algorithms, and then solving them.
+	- Appreciating how algorithms scale and its complexities(Time and Space) and identifying which suits best based on the constraints at hand.
