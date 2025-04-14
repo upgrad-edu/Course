@@ -9,4 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Achin Kumar Das
+Data Visualization in Python
+Matplotlib and Seaborn provides some useful functions to plot visual charts to analyse data. Seaborn libraries add nice aesthetics to the charts which makes the charts visually appealing. Box Plot is a very useful chart that provides meadian, IQR and lower/ upper extremes of the data related to one variable.
