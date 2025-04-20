@@ -5,7 +5,6 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
+Shubham Rawat
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Optimize item selection within weight limits by using DP to solve overlapping subproblems with inclusion-exclusion logic.
