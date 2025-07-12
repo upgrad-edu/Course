@@ -1,9 +1,14 @@
-What are the key concepts you learnt from these courses
+:What are the key concepts you learnt from these courses
 You can choose one module from the list below:-
 1)Algorithm Analysis
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Name: Poojitha Ramireddygari
+Module: Divide and Conquer Algorithms
+Learnings: 
+I learned how to solve complex problems efficiently by breaking them into smaller subproblems, solving them independently, and combining their results.  
+This approach helps in reducing the overall time complexity of many recursive problems.  
+Algorithms like Merge Sort and Quick Sort clearly demonstrate the power of the divide and conquer technique in sorting and searching problems.
