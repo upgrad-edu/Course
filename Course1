@@ -10,3 +10,7 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Abdul Salam Shaik
+Divide and Conquer
+Breaking down a complex problem into smaller independent subproblems, solving each subproblem recursively, and combining their solutions to solve the original problem.
+This approach improves efficiency by tackling easier parts first and merging results systematically.
