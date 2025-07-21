@@ -4,6 +4,14 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Manish Atwal
+
+Module: Divide and Conquer Algorithms
+
+This module introduced me to the divide-and-conquer strategy, where problems are broken into smaller subproblems.  
+I learned how this approach is used in classic algorithms like Merge Sort, Quick Sort, and Binary Search.  
+The recursive nature of these algorithms helped me understand how problems can be solved more efficiently through problem decomposition.  
+It improved my ability to think recursively and solve problems in a structured way.
+
+
+
