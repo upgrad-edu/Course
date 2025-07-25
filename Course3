@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sai Teja Ambati
+Algorithm Analysis
+Algorithm analysis is the process of determining the amount of resources, such as time and space, that an algorithm requires.
+It helps in understanding the efficiency and scalability of an algorithm.
+Key techniques include analyzing the worst-case, average-case, and best-case scenarios.
+This allows for the comparison of algorithms to select the most suitable one for a specific task.
