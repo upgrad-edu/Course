@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sai Chakradhar Rao Mahendrakar
+Divide and Conquer Algorithms
+Divide and conquer is an algorithmic technique that breaks a problem into smaller subproblems, solves each recursively, and then combines their solutions. This approach simplifies complex problems and often leads to more efficient algorithms, such as Merge Sort and Quick Sort.
