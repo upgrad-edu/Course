@@ -1,11 +1,27 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Name : Vanushree D M
 
+1.Version control systems like Git help track changes, collaborate with others, and revert to previous versions, making project management efficient and error-free.
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+2.GitHub enables remote collaboration, allowing you to push local code changes, create branches, and submit pull requests for review and integration.
 
+3.Open-source software, such as VS Code and Linux, encourages public contributions and innovation; major companies like Microsoft and Google actively support and maintain open-source projects.
+
+4.Open Source refers to code that is publicly available and can be freely used, modified, and shared, promoting transparency and collaboration.
+
+5.It accelerates development, encourages learning and contributions, and is supported by individuals, startups, and tech giants like Google and Microsoft.
+
+6.Major examples include Linux, VS Code, and GitHub (acquired by Microsoft in 2018), all of which highlight the power and impact of open-source software.
+
+7.Version control systems help manage code changes, prevent data loss, and enable seamless collaboration among developers by tracking history and supporting reverts.
+
+8.Types of VCS include Local, Centralized, and Distributed systems—with Git being a distributed VCS known for its speed, security, and robust features like branching, merging, and undoing changes (git revert, git reset).
+
+9.GitHub serves as a remote platform for hosting Git repositories, allowing developers to push code, collaborate through pull requests, and manage project versions efficiently.
+
+10.VS Code – A lightweight, open-source code editor by Microsoft, widely used for software development.
+
+11.TensorFlow and Kubernetes – Powerful open-source tools by Google for machine learning and container orchestration, respectively.
+
+12.React and Electron – Open-source frameworks for building web and desktop applications, maintained by Meta and the open-source community.
+
+13.Docker – A widely adopted open-source platform that enables developers to containerize and deploy applications efficiently
