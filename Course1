@@ -4,9 +4,7 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Ankit Kumar
+2 Divide and Conquer Algorithms
+Divide and conquer is a classic algorithmic strategy that breaks a complex problem into smaller, similar subproblems, solves each one recursively, and then combines the results to obtain the final solution. This approach simplifies challenging tasks and often improves efficiency. Well known examples include merge sort, quick sort, and binary search. It is also used in advanced algorithms like the fast Fourier transform and closest pair of points. By reducing the size of problems at each step, divide and conquer often achieves better time complexity, such as O(n log n), though it may require extra memory for recursion and merging.
 
